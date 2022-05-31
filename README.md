@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Anuradha Sandeepani
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently learning IIB, UiPath, Selenium
+- 📫 How to reach me anusandy15@gmail.com
